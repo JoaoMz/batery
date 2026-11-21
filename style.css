@@ -39,6 +39,11 @@ h1{
     padding: 10px;
     
 }
+.key.active{
+    background-color: white;
+    color: black;
+    border: 2px solid rgb(122, 122, 122)
+}
 
 .composer{
     width: 260px;
